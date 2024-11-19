@@ -37,7 +37,7 @@ const Resume = () => {
             <FaGithub size={20} style={{ marginRight: '1rem' }} />
           </a>
           <button className="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold px-4 rounded inline-flex items-center">
-            <a href='/Resume.pdf' download={true} className='underline cursor-pointer text-decoration-line: none;' rel="noreferrer" target='_blank'>
+            <a href='/RihilSanghaniResume.pdf' download={true} className='underline cursor-pointer text-decoration-line: none;' rel="noreferrer" target='_blank'>
               Download
             </a>
           </button>
