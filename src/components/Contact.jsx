@@ -5,6 +5,8 @@ import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 import { HiOutlineChevronDoubleUp } from 'react-icons/hi';
 import ContactImg from '../assets/contact.jpg'
 import { Link } from 'react-router-dom';
+import { FaPhoneAlt } from "react-icons/fa";
+import { IoMail } from "react-icons/io5";
 
 const Contact = () => {
   const scrollToBack = () => {
@@ -49,10 +51,14 @@ const Contact = () => {
                 </div>
                 <div>
                   <h2 className='py-2'>Rihil Sanghni</h2>
-                  <p> MERN Stack Web Developer | Python developer</p>
+                  <p> Software Developer | Full Stack Developer</p>
                   <p className='py-4'>
                     I am available for freelance or full-time positions. Contact
                     me and let&apos;s talk.
+                  </p>
+                  <p>
+                   <span className='flex items-center'><FaPhoneAlt /> &nbsp; +1(647) 614-8135</span>
+                   <span className='flex items-center'><IoMail /> &nbsp; rihilsanghani@gmail.com</span>
                   </p>
                 </div>
                 <div>

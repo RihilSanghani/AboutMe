@@ -1,6 +1,6 @@
 import React from 'react';
 import AboutImg from '../assets/About1.jpg';
-import { Link } from 'react-scroll';
+// import { Link } from 'react-scroll';
 
 const About = () => {
   return (
@@ -15,7 +15,10 @@ const About = () => {
           </div>
           <div data-aos="fade-right" data-aos-duration="2000">
             <p className='py-2 text-gray-600'>
-              I am a seasoned MERN stack engineer with two years of diversified expertise in data scraping, full-stack programming, and project management. My data scraping experience enables me to extract relevant insights from a variety of sources, optimising data-driven decision-making. I successfully lead teams as a project manager with one year of hands-on experience, guaranteeing fluid project execution and timely delivery. Furthermore, my expertise as a backend developer provides solid and scalable solutions. My desire to design cutting-edge applications while maintaining a strong focus on performance and user experience motivates me.
+            I’m Rihil Sanghani, a passionate software developer with over two years of experience specializing in building responsive web applications and crafting seamless user interfaces using the MERN stack. I thrive on solving complex challenges, developing scalable solutions, and delivering applications that provide exceptional user experiences. Currently pursuing a diploma in Computer Programming at Sheridan College, I have honed my skills in React, Node.js, and MongoDB, while staying updated with the latest technologies and industry trends.
+            </p>
+            <p className='py-2 text-gray-600'>
+            My journey in software development has been marked by a dedication to innovation and quality. I’ve worked on award-winning projects like BookMyTable, which was recognized as a top-ranked project at both college and university levels. With a focus on best practices and continuous learning, I aim to create impactful solutions that not only meet but exceed user expectations. Whether it’s developing scalable architectures or crafting engaging front-end designs, I’m committed to making technology accessible and meaningful.
             </p>
             {/* <p className='py-2 text-gray-600'>
               Recent graduate student looking for an opportunity in Web Development. Highly

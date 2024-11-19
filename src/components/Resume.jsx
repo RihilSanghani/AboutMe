@@ -16,10 +16,14 @@ const Resume = () => {
         Resume
       </p>
       <div className='bg-[#d0d4d6] my-4 p-4 w-full flex justify-between items-center'>
-        <h2 className='text-center'>Rihil Sanghani</h2>
+        <h2 className='text-center'>
+          <a href="/">
+          Rihil Sanghani
+          </a>
+          </h2>
         <div className='flex'>
           <a
-            href='https://www.linkedin.com/in/rihil-sanghani-713255227'
+            href='https://www.linkedin.com/in/rihil-sanghani/'
             target='_blank'
             rel='noreferrer'
           >
@@ -42,7 +46,7 @@ const Resume = () => {
       <div className='text-center py-4 text-xl font-bold uppercase tracking-wider'>
         <div className='hidden sm:block'>
           <p>
-            Proven Leadership <span className='px-1'>|</span> Full-Stack Web Development{' '}
+            software Developer <span className='px-1'>|</span> Full-Stack Web Development{' '}
             <span className='px-1'>|</span> Complex Problem Solving
           </p>
         </div>
@@ -53,24 +57,21 @@ const Resume = () => {
         </div>
       </div>
       <p>
-        Analytical, innovative, and motivated web development beginner. Adept at developing strategies and driving streamlined
-        operations. Diverse analytical skills, team collaboration, and
-        relationship building. Motivated leader with solid interpersonal abilities and complex problem-solving skills.
-        Effective and proven track record of critical thinking, idea
-        generation, and optimizing efficiencies.
+      Software Developer with over 2 years of experience building responsive web applications and intuitive user interfaces using the MERN stack. Skilled in React, Node.js, and .Net, with a proven track record of delivering scalable solutions and award-winning projects like BookMyTable. Dedicated to crafting impactful, user-focused applications while adhering to best development practices and staying updated with modern technologies.
       </p>
 
       {/* Skills */}
       <div className='text-center py-4'>
         <h5 className='text-center underline text-[18px] py-2'>Skills</h5>
-        <p className='py-2'>Python
-          <span className='px-2'>|</span>Data Science
-          <span className='px-2'>|</span>AI
-          <span className='px-2'>|</span>ML
-          <span className='px-2'>|</span>Web Scraping
-          <span className='px-2'>|</span>React (MERN)
-          <span className='px-2'>|</span>Asp .net
-          <span className='px-2'>|</span>Django
+        <p className='py-2'>Java Script
+          <span className='px-2'>|</span>Java
+          <span className='px-2'>|</span>C#
+          <span className='px-2'>|</span>Python
+          <span className='px-2'>|</span>MERN Stack Developement
+          <span className='px-2'>|</span>REST API
+          <span className='px-2'>|</span>MongoDb
+          <span className='px-2'>|</span>MySql
+          <span className='px-2'>|</span>Git/GitHub
         </p>
       </div>
 
@@ -82,19 +83,19 @@ const Resume = () => {
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold italic'>
-              Advanced Diploma In Information Technology
+              Computer Programming
             </span>
             <span className='px-2'>|</span>Brampton, Canada
           </p>
           Sheridan collage
-          <p className='py-1 italic'>2023-Running...</p>
+          <p className='py-1 italic'>Sept 2023- Dec 2024</p>
           <ul className='px-7 py-1 list-disc list-inside leading-relaxed'>
             <li>
-              Gained Advance knowledge of Data Science, AI, ML and Software Development.
+              Gained Advance knowledge of Data, Web Developementt, Mobile App Developement, Software Development, AI/ML and System analysis
             </li>
-            {/* <li>
-              Overall GPA : 8.75
-            </li> */}
+            <li>
+              Overall GPA : 3.59
+            </li>
           </ul>
         </div>
         <div className='py-6'>
@@ -105,13 +106,13 @@ const Resume = () => {
             <span className='px-2'>|</span>Surat
           </p>
           Gujarat Technological University
-          <p className='py-1 italic'>2019-2022</p>
+          <p className='py-1 italic'>Aug 2019 - April 2022</p>
           <ul className='px-7 py-1 list-disc list-inside leading-relaxed'>
             <li>
               Gained basic knowledge of I.T. Department.
             </li>
             <li>
-              Overall GPA : 8.75
+              Overall CGPA : 8.75
             </li>
           </ul>
         </div>
