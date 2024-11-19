@@ -3,7 +3,6 @@ import Javascript from '../assets/Js.png';
 import ReactImg from '../assets/React.png';
 import Tailwind from '../assets/Tailwind.png';
 import Github from '../assets/Github1.png';
-// import Firebase from '../assets/Firebase.png';
 import MySql from '../assets/Mysql.png'
 import Bootstrap from '../assets/Bootstrap.png'
 import python from '../assets/Python.png'
