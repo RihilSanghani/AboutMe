@@ -35,7 +35,7 @@ const Skills = () => {
               </div>
             </div>
           </div>
-          <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300 hover:shadow-yellow-200'>
+          <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300 hover:shadow-blue-200'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
                 <img src={python} width='64px' height='64px' alt='/' />
@@ -46,7 +46,7 @@ const Skills = () => {
             </div>
           </div>
 
-          <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300  hover:shadow-sky-200'>
+          <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300  hover:shadow-green-200'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
                 <img src={nodejs} width='70px' height='70px' alt='/' />
@@ -66,7 +66,7 @@ const Skills = () => {
               </div>
             </div>
           </div>
-          <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300 hover:shadow-neutral-400'>
+          <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300 hover:shadow-purple-400'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
                 <img src={cs} width='70px' height='70px' alt='/' />
