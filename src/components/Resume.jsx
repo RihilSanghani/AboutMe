@@ -7,7 +7,6 @@ const Resume = () => {
     window.scrollTo({
       top: 0,
       behavior: "smooth",
-
     });
   };
   return (
@@ -18,9 +17,9 @@ const Resume = () => {
       <div className='bg-[#d0d4d6] my-4 p-4 w-full flex justify-between items-center'>
         <h2 className='text-center'>
           <a href="/">
-          Rihil Sanghani
+            Rihil Sanghani
           </a>
-          </h2>
+        </h2>
         <div className='flex'>
           <a
             href='https://www.linkedin.com/in/rihil-sanghani/'
@@ -57,7 +56,7 @@ const Resume = () => {
         </div>
       </div>
       <p>
-      Software Developer with over 2 years of experience building responsive web applications and intuitive user interfaces using the MERN stack. Skilled in React, Node.js, and .Net, with a proven track record of delivering scalable solutions and award-winning projects like BookMyTable. Dedicated to crafting impactful, user-focused applications while adhering to best development practices and staying updated with modern technologies.
+        Software Developer with over 2 years of experience building responsive web applications and intuitive user interfaces using the MERN stack. Skilled in React, Node.js, and .Net, with a proven track record of delivering scalable solutions and award-winning projects like BookMyTable. Dedicated to crafting impactful, user-focused applications while adhering to best development practices and staying updated with modern technologies.
       </p>
 
       {/* Skills */}
