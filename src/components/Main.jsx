@@ -12,24 +12,24 @@ import "aos/dist/aos.css"
 </script>
 
 const Main = () => {
-  const scrollToContact = () => {
-    window.scrollTo({
-      top: 2700,
-      behavior: "smooth",
+  // const scrollToContact = () => {
+  //   window.scrollTo({
+  //     top: 2700,
+  //     behavior: "smooth",
 
-    });
-  };
+  //   });
+  // };
 
-  const scrollToContactM = () => {
-    window.scrollTo({
-      top: 3600,
-      behavior: "smooth",
+  // const scrollToContactM = () => {
+  //   window.scrollTo({
+  //     top: 3600,
+  //     behavior: "smooth",
 
-    });
-  };
+  //   });
+  // };
 
-  const isDesktopOrLaptop = useMediaQuery({ query: '(min-device-width: 1224px)' })
-  const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
+  // const isDesktopOrLaptop = useMediaQuery({ query: '(min-device-width: 1224px)' })
+  // const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
   useEffect(() => {
     Aos.init({});
   }, []);

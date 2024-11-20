@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Myportfolio/static/css/main.421957b1.css",
-    "main.js": "/Myportfolio/static/js/main.cfbc8931.js",
-    "static/media/About1.jpg": "/Myportfolio/static/media/About1.3dd4cfbd96f6260593d0.jpg",
-    "static/media/Python.png": "/Myportfolio/static/media/Python.82efb64f8698a267f8bf.png",
-    "static/media/contact.jpg": "/Myportfolio/static/media/contact.6d13cc08960095d42376.jpg",
-    "static/media/React.png": "/Myportfolio/static/media/React.0cf951a69d8e58f83f9d.png",
-    "static/media/nodejs.png": "/Myportfolio/static/media/nodejs.9b61d865d73b33bcf214.png",
-    "static/media/mongodb.png": "/Myportfolio/static/media/mongodb.0f43d5f19627c5331f75.png",
-    "static/media/navLogo1.png": "/Myportfolio/static/media/navLogo1.868f0068f60cf0a2f170.png",
-    "static/media/MERN.jpeg": "/Myportfolio/static/media/MERN.8c21ef953c56cf0412f7.jpeg",
-    "static/media/Tailwind.png": "/Myportfolio/static/media/Tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/Github1.png": "/Myportfolio/static/media/Github1.5b161304c2f1f68eadc8.png",
-    "static/media/Js.png": "/Myportfolio/static/media/Js.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/Myportfolio/index.html",
-    "main.421957b1.css.map": "/Myportfolio/static/css/main.421957b1.css.map",
-    "main.cfbc8931.js.map": "/Myportfolio/static/js/main.cfbc8931.js.map"
+    "main.css": "/RihilSanghani/static/css/main.421957b1.css",
+    "main.js": "/RihilSanghani/static/js/main.4d74ddf2.js",
+    "static/media/About1.jpg": "/RihilSanghani/static/media/About1.3dd4cfbd96f6260593d0.jpg",
+    "static/media/Python.png": "/RihilSanghani/static/media/Python.82efb64f8698a267f8bf.png",
+    "static/media/contact.jpg": "/RihilSanghani/static/media/contact.6d13cc08960095d42376.jpg",
+    "static/media/React.png": "/RihilSanghani/static/media/React.0cf951a69d8e58f83f9d.png",
+    "static/media/nodejs.png": "/RihilSanghani/static/media/nodejs.9b61d865d73b33bcf214.png",
+    "static/media/mongodb.png": "/RihilSanghani/static/media/mongodb.0f43d5f19627c5331f75.png",
+    "static/media/navLogo1.png": "/RihilSanghani/static/media/navLogo1.868f0068f60cf0a2f170.png",
+    "static/media/MERN.jpeg": "/RihilSanghani/static/media/MERN.8c21ef953c56cf0412f7.jpeg",
+    "static/media/Tailwind.png": "/RihilSanghani/static/media/Tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/Github1.png": "/RihilSanghani/static/media/Github1.5b161304c2f1f68eadc8.png",
+    "static/media/Js.png": "/RihilSanghani/static/media/Js.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/RihilSanghani/index.html",
+    "main.421957b1.css.map": "/RihilSanghani/static/css/main.421957b1.css.map",
+    "main.4d74ddf2.js.map": "/RihilSanghani/static/js/main.4d74ddf2.js.map"
   },
   "entrypoints": [
     "static/css/main.421957b1.css",
-    "static/js/main.cfbc8931.js"
+    "static/js/main.4d74ddf2.js"
   ]
 }

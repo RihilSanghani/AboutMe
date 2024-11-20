@@ -1,9 +1,9 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { AiOutlineClose, AiOutlineMail, AiOutlineMenu } from 'react-icons/ai';
+import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai';
 import NavLogo1 from '../assets/navLogo1.png'
-import { BrowserRouter as router, BrowserRouter, Routes, Route, Router } from 'react-router-dom'
+import { BrowserRouter as router } from 'react-router-dom'
 import { Link } from 'react-router-dom'
-import Resume from './Resume';
+// import Resume from './Resume';
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -127,18 +127,18 @@ const Navbar = () => {
               <li className='ml-10 text-sm uppercase hover:border-b cursor-pointer' onClick={scrollToMain}>
                 Home
               </li>
-              {/* <li className='ml-10 text-sm uppercase hover:border-b cursor-pointer' onClick={scrollToAbout}>
+              <li className='ml-10 text-sm uppercase hover:border-b cursor-pointer' onClick={scrollToAbout}>
                 About
               </li>
               <li className='ml-10 text-sm uppercase hover:border-b cursor-pointer' onClick={scrollToSkills}>
                 Skills
-              </li> */}
+              </li>
               <li className='ml-10 text-sm uppercase hover:border-b cursor-pointer'>
                 <Link exact to='/resume'>Resume</Link>
               </li>
-              {/* <li className='ml-10 text-sm uppercase hover:border-b cursor-pointer' onClick={scrollToContact}>
+              <li className='ml-10 text-sm uppercase hover:border-b cursor-pointer' onClick={scrollToContact}>
                 Contact
-              </li> */}
+              </li>
             </ul>
             {/* Hamburger Icon */}
             <div

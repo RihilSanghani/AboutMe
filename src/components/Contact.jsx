@@ -17,16 +17,16 @@ const Contact = () => {
     });
   };
 
-  const validate = empData => {
-    const errors = {};
+  // const validate = empData => {
+  //   const errors = {};
 
-    if (!empData.Name) {
-      errors.Name = 'Please Enter Name';
-    } else if (empData.Name.length > 1) {
-      errors.Name = 'Enter valid name';
-    }
-    return errors;
-  };
+  //   if (!empData.Name) {
+  //     errors.Name = 'Please Enter Name';
+  //   } else if (empData.Name.length > 1) {
+  //     errors.Name = 'Enter valid name';
+  //   }
+  //   return errors;
+  // };
 
   return (
     <div id='contact' className='w-screen px-8 bg-[#ecf0f3] flex justify-center'>
