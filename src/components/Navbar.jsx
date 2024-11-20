@@ -65,7 +65,7 @@ const Navbar = () => {
 
   const scrollToAbout = () => {
     window.scrollTo({
-      top: 900,
+      top: 590,
       behavior: 'smooth'
     });
   };
@@ -77,7 +77,7 @@ const Navbar = () => {
   };
   const scrollToSkills = () => {
     window.scrollTo({
-      top: 1890,
+      top: 1150,
       behavior: 'smooth'
     });
   };
@@ -90,7 +90,7 @@ const Navbar = () => {
 
   const scrollToContact = () => {
     window.scrollTo({
-      top: 2700,
+      top: 1750,
       behavior: 'smooth'
     });
   };
