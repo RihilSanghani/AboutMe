@@ -15,10 +15,10 @@ const About = () => {
           </div>
           <div data-aos="fade-right" data-aos-duration="2000">
             <p className='py-2 text-gray-600'>
-            I’m Rihil Sanghani, a passionate software developer with over two years of experience specializing in building responsive web applications and crafting seamless user interfaces using the MERN stack. I thrive on solving complex challenges, developing scalable solutions, and delivering applications that provide exceptional user experiences. Currently pursuing a diploma in Computer Programming at Sheridan College, I have honed my skills in React, Node.js, and MongoDB, while staying updated with the latest technologies and industry trends.
+              I’m Rihil Sanghani, a dedicated software developer with over two years of experience specializing in creating responsive web applications and seamless user interfaces using the MERN stack and .NET frameworks. I graduated from Sheridan College with a diploma in Computer Programming, where I honed my skills in React, Node.js, MongoDB, and .NET MAUI, focusing on building scalable, efficient, and impactful solutions. My technical foundation is complemented by a passion for continuous learning and staying ahead of emerging technologies.
             </p>
             <p className='py-2 text-gray-600'>
-            My journey in software development has been marked by a dedication to innovation and quality. I’ve worked on award-winning projects like BookMyTable, which was recognized as a top-ranked project at both college and university levels. With a focus on best practices and continuous learning, I aim to create impactful solutions that not only meet but exceed user expectations. Whether it’s developing scalable architectures or crafting engaging front-end designs, I’m committed to making technology accessible and meaningful.
+              My journey in software development is marked by a drive for innovation and quality, highlighted by award-winning projects like BookMyTable, recognized as a top-ranked project at both college and university levels. Whether it’s designing scalable architectures, building cross-platform applications, or crafting engaging front-end designs, I am committed to delivering exceptional user experiences and making technology both accessible and meaningful.
             </p>
             {/* <p className='py-2 text-gray-600'>
               Recent graduate student looking for an opportunity in Web Development. Highly

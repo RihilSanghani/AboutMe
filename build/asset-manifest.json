@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.421957b1.css",
+    "main.js": "/static/js/main.3c729bdd.js",
+    "static/media/About1.jpg": "/static/media/About1.3dd4cfbd96f6260593d0.jpg",
+    "static/media/Python.png": "/static/media/Python.82efb64f8698a267f8bf.png",
+    "static/media/contact.jpg": "/static/media/contact.6d13cc08960095d42376.jpg",
+    "static/media/React.png": "/static/media/React.0cf951a69d8e58f83f9d.png",
+    "static/media/nodejs.png": "/static/media/nodejs.9b61d865d73b33bcf214.png",
+    "static/media/mongodb.png": "/static/media/mongodb.0f43d5f19627c5331f75.png",
+    "static/media/navLogo1.png": "/static/media/navLogo1.868f0068f60cf0a2f170.png",
+    "static/media/MERN.jpeg": "/static/media/MERN.8c21ef953c56cf0412f7.jpeg",
+    "static/media/Tailwind.png": "/static/media/Tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/Github1.png": "/static/media/Github1.5b161304c2f1f68eadc8.png",
+    "static/media/Js.png": "/static/media/Js.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.421957b1.css.map": "/static/css/main.421957b1.css.map",
+    "main.3c729bdd.js.map": "/static/js/main.3c729bdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.421957b1.css",
+    "static/js/main.3c729bdd.js"
+  ]
+}

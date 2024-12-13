@@ -2,14 +2,11 @@ import React, { useEffect } from 'react';
 import { AiOutlineInstagram } from 'react-icons/ai';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
-import { useMediaQuery } from 'react-responsive'
 import { BrowserRouter as Router, Link } from 'react-router-dom';
 import Aos from 'aos';
 import "aos/dist/aos.css"
 
-<script>
 
-</script>
 
 const Main = () => {
   // const scrollToContact = () => {

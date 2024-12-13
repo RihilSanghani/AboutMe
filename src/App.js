@@ -1,20 +1,15 @@
-import Navbar from "./components/Navbar";
-import About from "./components/About";
-import Main from "./components/Main";
-import Skills from "./components/Skills";
-import Contact from "./components/Contact"
-import {RemoveScrollBar} from 'react-remove-scroll-bar';
+import Home from "./components/Home";
+import { Route, BrowserRouter, Routes } from 'react-router-dom';
+import Resume from './components/Resume';
 
 function App() {
   return (
-    <div className="App">
-      <RemoveScrollBar />
-      <Navbar />
-      <Main />
-      <About />
-      <Skills />
-      <Contact />
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route exact path='/' element={<Home />} />
+        <Route exact path='/resume' element={<Resume />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
